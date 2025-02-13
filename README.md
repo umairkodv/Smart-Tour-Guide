@@ -1,4 +1,4 @@
-# Laravel Smart Tour Guide
+# Laravel Smart Tour Guide Project
 # Getting started
 
 ## Installation
